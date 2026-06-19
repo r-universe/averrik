@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "gmsp"]
+	path = gmsp
+	url = https://github.com/cran/gmsp
 [submodule "newmark"]
 	path = newmark
 	url = https://github.com/cran/newmark
