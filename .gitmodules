@@ -8,3 +8,6 @@
 [submodule "newmark"]
 	path = newmark
 	url = https://github.com/cran/newmark
+[submodule "ssel"]
+	path = ssel
+	url = https://github.com/cran/ssel
