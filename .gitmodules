@@ -11,6 +11,9 @@
 [submodule "ssel"]
 	path = ssel
 	url = https://github.com/cran/ssel
+[submodule "xemd"]
+	path = xemd
+	url = https://github.com/cran/xemd
 [submodule "zot"]
 	path = zot
 	url = https://github.com/cran/zot
